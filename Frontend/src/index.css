@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  background-color: #facc15;
+}
+option {
+  background-color: yellow;
+}
